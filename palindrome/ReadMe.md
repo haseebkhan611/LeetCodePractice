@@ -14,3 +14,14 @@ Output : No
 - Write modular code with helper
 - Write driver code. This could be a shell script
 - Write test cases
+
+
+## How to run the code
+```
+python3 palindrome.py -w [word]
+```
+
+You may also use the shell script to run the code but will have to provide the word in the script itself
+```
+./start.sh
+```
